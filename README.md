@@ -1,7 +1,7 @@
-# Xander
+# Hello 👋
 
-Software Engineer with a strong interest in building robust, maintainable systems.
-I enjoy working close to the metal when needed, but value clarity, simplicity, and long-term maintainability above all.
+Software Engineer with a strong preference for clarity over complexity.
+I focus on building systems that are easy to understand, test, and evolve over time, even under changing requirements.
 
 ---
 
@@ -23,7 +23,7 @@ I enjoy working close to the metal when needed, but value clarity, simplicity, a
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,,nextjs,angular,vue,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind" />
 </p>
 
 ### Backend
@@ -33,7 +33,7 @@ I enjoy working close to the metal when needed, but value clarity, simplicity, a
 
 ### Data & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch,azure,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,microsoftsql,mongodb,elasticsearch,azure,docker" />
 </p>
 
 ---
