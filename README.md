@@ -28,12 +28,12 @@ I focus on building systems that are easy to understand, test, and evolve over t
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,fastify,expressjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,expressjs" />
 </p>
 
 ### Data & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,microsoftsql,mongodb,elasticsearch,azure,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,mssql,mongodb,elasticsearch,azure,docker" />
 </p>
 
 ---
