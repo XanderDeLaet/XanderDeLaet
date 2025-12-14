@@ -1,6 +1,6 @@
 # Hello 👋
 
-Software Engineer with a strong preference for clarity over complexity.
+My name is Xander. Software Engineer with a strong preference for clarity over complexity.
 I focus on building systems that are easy to understand, test, and evolve over time, even under changing requirements.
 
 ---
@@ -33,7 +33,7 @@ I focus on building systems that are easy to understand, test, and evolve over t
 
 ### Data & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mssql,mongodb,elasticsearch,azure,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch,azure,docker" />
 </p>
 
 ---
